@@ -1,0 +1,6 @@
+= fmodel-rs
+
+*WIP*
+
+Rust version of https://github.com/fraktalio/fmodel-ts
+
